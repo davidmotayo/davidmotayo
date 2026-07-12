@@ -2,7 +2,6 @@
 
 ### GRC Analyst | Cybersecurity & Information Security Compliance Professional
 
-[#grc-analyst--cybersecurity--information-security-compliance-professional](#grc-analyst--cybersecurity--information-security-compliance-professional)
 
 I'm a Computer Science graduate (Caleb University, Lagos, 2025) working at the intersection of **Governance, Risk & Compliance** and **software development**. I build ISMS documentation, risk registers, and compliance frameworks the way an engineer builds software — structured, evidence-backed, and grounded in how systems actually work under the hood.
 
@@ -12,7 +11,6 @@ My focus is ISO/IEC 27001 & 27701 implementation, risk management (NIST CSF, IEC
 
 ### 🛡️ Core Competencies
 
-[#-core-competencies](#-core-competencies)
 
 - **ISMS Implementation:** ISO/IEC 27001:2022 & 27701 — risk registers, Statements of Applicability, Annex A control mapping, internal audit findings, risk treatment plans.
 - **Risk Management Frameworks:** NIST SP 800-39 / 800-37, ISO 31000, NIST CSF, IEC 62443 (OT/industrial control systems).
@@ -25,8 +23,6 @@ My focus is ISO/IEC 27001 & 27701 implementation, risk management (NIST CSF, IEC
 
 ### ⚙️ Technical Toolkit
 
-[#️-technical-toolkit](#️-technical-toolkit)
-
 | Domain | Tools & Technologies |
 |---|---|
 | **GRC & Documentation** | Excel-based risk registers & dashboards, SoA templates, compliance checklists |
@@ -36,9 +32,7 @@ My focus is ISO/IEC 27001 & 27701 implementation, risk management (NIST CSF, IEC
 
 ---
 
-### 🔬 Featured Projects
-
-[#-featured-projects](#-featured-projects)
+### 🔬 Project
 
 #### 📋 PayFlow Fintech GRC Programme
 
@@ -54,7 +48,6 @@ My focus is ISO/IEC 27001 & 27701 implementation, risk management (NIST CSF, IEC
 
 ### 🎯 What Sets My Work Apart
 
-[#-what-sets-my-work-apart](#-what-sets-my-work-apart)
 
 | Aspect | Typical GRC Analyst | My Approach |
 |---|---|---|
@@ -66,8 +59,6 @@ My focus is ISO/IEC 27001 & 27701 implementation, risk management (NIST CSF, IEC
 ---
 
 ### 🤝 Let's Connect
-
-[#-lets-connect](#-lets-connect)
 
 - **Location:** Lagos, Nigeria
 - **GitHub:** [@davidmotayo](https://github.com/davidmotayo)
