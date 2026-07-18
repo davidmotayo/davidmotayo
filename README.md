@@ -1,4 +1,4 @@
-# 👋 Hello, I'm David Ogunrinola
+# Hi, I'm David
 
 ### GRC Analyst | Cybersecurity & Information Security Compliance Professional
 
@@ -36,11 +36,11 @@ My focus is ISO/IEC 27001 & 27701 implementation, risk management (NIST CSF, IEC
 
 #### 📋 PayFlow Fintech GRC Programme
 
-[#-payflow-fintech-grc-programme](#-payflow-fintech-grc-programme)
+[#-payflow-fintech-grc-programme](https://github.com/davidmotayo/GRC-Analysis-of-Payflow-/tree/main)
 
 *An eight-week, end-to-end ISMS build for a fintech environment.*
 
-- **Core Focus:** Full ISO/IEC 27001:2022 compliance suite — risk register, risk assessment matrix, security policies, 93-control Annex A checklist, internal audit findings report, risk treatment plan, Statement of Applicability, and a final security governance plan.
+- **Core Focus:** Full ISO/IEC 27001:2022 compliance suite — risk register, risk assessment matrix, security policies, internal audit findings report, risk treatment plan, Statement of Applicability, and a final security governance plan.
 - **Business Value:** Delivered a complete, audit-ready ISMS package suitable for real regulatory review, mirroring how a fintech would actually prepare for certification.
 
 
