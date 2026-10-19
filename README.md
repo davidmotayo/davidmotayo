@@ -1,14 +1,14 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071B33,100:00B8C4&height=240&section=header&text=David%20Ogunrinola&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Lead%20Auditor%20%7C%20IT%20Risk%20Specialist&descSize=17&descAlignY=58" alt="David Ogunrinola — Cybersecurity Lead Auditor | IT Risk Specialist" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:64748B&height=240&section=header&text=David%20Ogunrinola&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Lead%20Auditor%20%7C%20IT%20Risk%20Specialist&descSize=17&descAlignY=58" alt="David Ogunrinola — Cybersecurity Lead Auditor | IT Risk Specialist" />
 
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00B8C4&center=true&vCenter=true&width=1000&lines=Governance%2C+Risk+%26+Compliance;ISO%2FIEC+27701%3A2025+Lead+Auditor;ISO+27001+%7C+NIST+CSF+2.0+%7C+IEC+62443;Risk+Assessment+%7C+Audit+Support+%7C+Security+Governance;Building+audit-ready+ISMS+the+engineer+way" alt="GRC, ISO 27701 Lead Auditor, risk assessment and security governance" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=1000&lines=Governance%2C+Risk+%26+Compliance;ISO%2FIEC+27701%3A2025+Lead+Auditor;ISO+27001+%7C+NIST+CSF+2.0+%7C+IEC+62443;Risk+Assessment+%7C+Audit+Support+%7C+Security+Governance;Building+audit-ready+ISMS+the+engineer+way" alt="GRC, ISO 27701 Lead Auditor, risk assessment and security governance" />
 
 </div>
 
 ----
 
-# 👋 Hi, I'm David Ogunrinola
+# 👋 Hello, I'm David Ogunrinola
 
 ### Cybersecurity Lead Auditor | IT Risk Specialist | GRC Professional
 
@@ -117,6 +117,6 @@ Structured processes across enterprise-style environments.
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071B33,100:00B8C4&height=120&section=footer" alt="Decorative navy and teal footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:64748B&height=120&section=footer" alt="Decorative blue and grey footer" />
 
 </div>
