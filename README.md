@@ -1,46 +1,34 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Cybersecurity+Lead+Auditor+%7C+IT+Risk+Specialist;ISO%2FIEC+27701%3A2025+Lead+Auditor;GRC+%7C+ISO+27001+%7C+NIST+CSF+2.0+%7C+IEC+62443;Risk+Assessment+%7C+Compliance+%7C+Security+Governance;Building+audit-ready+ISMS+the+engineer+way" alt="Cybersecurity Lead Auditor | IT Risk Specialist" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071B33,100:00B8C4&height=240&section=header&text=David%20Ogunrinola&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Lead%20Auditor%20%7C%20IT%20Risk%20Specialist&descSize=17&descAlignY=58" alt="David Ogunrinola — Cybersecurity Lead Auditor | IT Risk Specialist" />
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-david--ogunrinola-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ogunrinola-332244256)
-[![GitHub](https://img.shields.io/badge/GitHub-davidmotayo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidmotayo)
-[![Email](https://img.shields.io/badge/Email-anthonydavido278%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonydavido278@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Lagos%2C%20Nigeria-00C9A7?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/davidmotayo)
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00B8C4&center=true&vCenter=true&width=1000&lines=Governance%2C+Risk+%26+Compliance;ISO%2FIEC+27701%3A2025+Lead+Auditor;ISO+27001+%7C+NIST+CSF+2.0+%7C+IEC+62443;Risk+Assessment+%7C+Audit+Support+%7C+Security+Governance;Building+audit-ready+ISMS+the+engineer+way" alt="GRC, ISO 27701 Lead Auditor, risk assessment and security governance" />
 
 </div>
 
----
+----
 
-# 👋 About Me
+# 👋 Hi, I'm David Ogunrinola
 
-I'm a **Cybersecurity Lead Auditor / IT Risk Specialist** based in **Lagos, Nigeria**, with a strong foundation in **Governance, Risk & Compliance (GRC)**, information security principles, and practical systems knowledge. I build ISMS documentation, risk registers, and compliance frameworks the way an engineer builds software — structured, evidence-backed, and grounded in how systems actually work under the hood.
+### Cybersecurity Lead Auditor | IT Risk Specialist | GRC Professional
 
-Certified **ISO/IEC 27701:2025 Lead Auditor** with working knowledge of **ISO/IEC 27001**, **NIST CSF 2.0**, **NIS2**, **IEC 62443**, vulnerability management, access control, incident management, and security governance. I bring technical fluency (web development + IT fundamentals) to GRC work so the controls I document match the systems they protect.
+I am a Computer Science graduate and **Cybersecurity Lead Auditor / IT Risk Specialist** with a strong foundation in Governance, Risk & Compliance (GRC), information security principles, IT administration, and cloud computing fundamentals. I build ISMS documentation, risk registers, and compliance frameworks the way an engineer builds software — structured, evidence-backed, and grounded in how systems actually work under the hood.
 
-### 🔭 What I Do
-
-- Design and maintain **security governance** programmes, policies, standards and procedures aligned to ISO 27001 / NIST CSF
-- Perform **risk assessments**, build and manage risk registers, and drive treatment plans
-- Support **audit readiness** (evidence collection, control reviews, Statement of Applicability, internal audit findings)
-- Map and monitor compliance against **ISO 27001/27701**, **SOC 2**, and relevant regulatory frameworks
-- Create clear technical documentation, compliance workflows and executive reporting dashboards
+Certified **ISO/IEC 27701:2025 Lead Auditor** with working knowledge of **ISO/IEC 27001**, **NIST Cybersecurity Framework (NIST CSF) 2.0**, **NIS2**, **IEC 62443**, vulnerability management, access control, incident management, and security governance. I specialize in **security documentation, compliance monitoring, risk assessment, risk register management, data protection, and audit support**.
 
 ---
 
-# 🛡️ Core Competencies
+## 🛡️ Core Competencies & Expertise
 
-- **ISMS & Privacy:** ISO/IEC 27001 fundamentals, ISO/IEC 27701 Privacy Information Management System, Statement of Applicability, Annex A control mapping
-- **Risk Management:** Risk identification, assessment, treatment concepts, risk register management, quantitative approaches (SLE/ALE where useful)
-- **Frameworks & Standards:** NIST CSF 2.0, NIS2 awareness, IEC 62443 (IT/OT), CIS Controls awareness, Information Security Governance principles
-- **Security Operations Concepts:** Vulnerability management, Identity & Access Management (IAM), security incident management, network security fundamentals, asset management
-- **Compliance & Audit Support:** Evidence collection, compliance monitoring, third-party risk fundamentals, data protection & privacy, security awareness training
-- **Documentation & Communication:** Security policies & procedures, technical report writing, executive reporting, cross-functional collaboration
+- **Cybersecurity Governance, Risk & Compliance (GRC):** Cybersecurity Governance, Risk Assessment Fundamentals, Risk Identification, Risk Treatment Concepts, Risk Register Management, Security Documentation, Compliance Monitoring, Audit Support, Evidence Collection, Security Policies & Procedures, Security Awareness Training, Data Protection & Privacy, Third-Party Risk Management Fundamentals
+- **Security Frameworks & Standards:** ISO/IEC 27001 Fundamentals, ISO/IEC 27701 Privacy Information Management System, NIST CSF 2.0, NIS2 Directive Awareness, IEC 62443 Awareness, CIS Controls Awareness, Information Security Governance Principles
+- **Cybersecurity Concepts:** Vulnerability Management Fundamentals, Security Incident Management, Identity and Access Management (IAM), Network Security Fundamentals, Security Controls, Asset Management, Security Operations Fundamentals, IT/OT Security
+- **Technical Skills:** HTML, CSS, JavaScript, MySQL, PHP, Cloud Computing Fundamentals, Computer Networks, Operating Systems
+- **Tools & Platforms:** Microsoft Office Suite (Word, Excel, PowerPoint), Documentation Tools, Version Control (Git/GitHub), SimpleRisk
 
 ---
 
-# ⚙️ Tech Stack & Tools
+## ⚙️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&perline=8" alt="Tech stack icons" />
@@ -48,33 +36,35 @@ Certified **ISO/IEC 27701:2025 Lead Auditor** with working knowledge of **ISO/IE
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **GRC & Documentation** | Risk registers & dashboards (Excel / SimpleRisk), SoA templates, compliance checklists, policy authoring |
+| **GRC & Documentation** | Excel-based risk registers & dashboards, SimpleRisk, SoA templates, compliance checklists, policy authoring |
 | **Frameworks & Standards** | ISO/IEC 27001, ISO/IEC 27701, NIST CSF 2.0, IEC 62443, NIS2 awareness, CIS Controls |
 | **Web & Application** | HTML, CSS, JavaScript, PHP, MySQL |
-| **Platforms & Collaboration** | Git / GitHub, Microsoft Office Suite (Word, Excel, PowerPoint), documentation tools |
+| **Platforms & Collaboration** | Git / GitHub, Microsoft Office Suite, documentation tools |
 | **Security Concepts** | Vulnerability management, IAM, access control, incident management, IT/OT security fundamentals |
 
 ---
 
-# 🧰 Featured Projects
+## 🔬 Featured Projects & Focus Areas
 
 ### 📋 [PayFlow Fintech GRC Programme](https://github.com/davidmotayo/GRC-Analysis-of-Payflow-)
-> **An eight-week, end-to-end ISMS build for a simulated fintech environment**
 
-- Full **ISO/IEC 27001:2022** compliance suite: risk register, risk assessment matrix, security policies, internal audit findings, risk treatment plan, Statement of Applicability, and final security governance plan
-- Delivered an audit-ready package that mirrors how a real fintech would prepare for certification
-- Demonstrates structured risk assessment → remediation → compliance monitoring workflow
+An eight-week, end-to-end ISMS build for a simulated fintech environment.
+
+- **Core Focus:** Full ISO/IEC 27001:2022 compliance suite — risk register, risk assessment matrix, security policies, internal audit findings report, risk treatment plan, Statement of Applicability, and final security governance plan.
+- **Business Value:** Delivered a complete, audit-ready ISMS package suitable for real regulatory review, mirroring how a fintech would actually prepare for certification.
 
 ---
 
 ### 🛡️ Security Governance & Audit Readiness Work
-> **Structured processes across enterprise-style environments**
 
-- Led ISO 27001 audit readiness activities including evidence collection, internal control reviews and remediation planning
+Structured processes across enterprise-style environments.
+
+- Strengthened security governance by implementing structured risk assessment, remediation, and compliance monitoring processes
+- Led ISO 27001 audit readiness activities including evidence collection, internal control reviews, and remediation planning
 - Conducted enterprise-wide cyber risk assessments resulting in comprehensive risk registers and treatment plans
-- Supported SOC 2 readiness through security control validation and documentation
-- Developed security policies, standards and procedures aligned with ISO 27001 and NIST CSF
-- Built executive reporting views tracking compliance maturity, risk remediation and audit progress
+- Supported SOC 2 readiness engagements through security control validation and documentation
+- Developed security policies, standards, and procedures aligned with ISO 27001 and NIST CSF
+- Built executive reporting dashboards tracking compliance maturity, risk remediation, and audit progress
 
 ---
 
@@ -89,14 +79,7 @@ Certified **ISO/IEC 27701:2025 Lead Auditor** with working knowledge of **ISO/IE
 
 ---
 
-# 📜 Certifications & Training
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ISO%2FIEC%2027701%3A2025-Lead%20Auditor-00C9A7?style=for-the-badge" alt="ISO/IEC 27701:2025 Lead Auditor" />
-  <img src="https://img.shields.io/badge/API%20Security-Fundamentals-0A66C2?style=for-the-badge" alt="API Security Fundamentals" />
-  <img src="https://img.shields.io/badge/Cloud%20Computing-IBM%20Coursera-FF6F00?style=for-the-badge&logo=ibm&logoColor=white" alt="Introduction to Cloud Computing" />
-  <img src="https://img.shields.io/badge/Web%20Development-HTML%20CSS%20JS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development" />
-</p>
+## 📜 Certifications & Training
 
 - **ISO/IEC 27701:2025 Lead Auditor** — Mastermind, 2025
 - **API Security Fundamentals** — Apisec University, 2025
@@ -108,18 +91,32 @@ Certified **ISO/IEC 27701:2025 Lead Auditor** with working knowledge of **ISO/IE
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect & Collaborate
 
 - **Location:** Lagos, Nigeria
 - **GitHub:** [@davidmotayo](https://github.com/davidmotayo)
 - **LinkedIn:** [David Ogunrinola](https://www.linkedin.com/in/david-ogunrinola-332244256)
 - **Email:** anthonydavido278@gmail.com
-- **Currently focused on:** ISO/IEC 27001 & 27701 mastery, GRC / Cyber Risk roles, combining technical systems knowledge with compliance work
+- **Strategic Focus:** ISO/IEC 27001 & 27701 mastery, GRC / Cyber Risk roles, combining technical systems knowledge with compliance work as a differentiator
 
 ---
 
+## 🎯 What Sets My Work Apart
+
+| Aspect | Typical GRC Analyst | My Approach |
+| :--- | :--- | :--- |
+| Technical Understanding | Reads system documentation | Has built and shipped web applications (HTML/CSS/JS/PHP/MySQL) |
+| Risk Assessment | Qualitative High/Medium/Low | Structured risk registers + treatment plans with quantitative elements where useful |
+| Framework Coverage | Single-framework focus | Cross-maps ISO 27001/27701, NIST CSF, IEC 62443, and local regulation in the same project |
+| Documentation | Templates filled in | Full ISMS suites built end-to-end, matching real audit workflows |
+| Implementation | Policy-only | Documentation grounded in how systems actually work |
+
+---
+
+> "Compliance documentation is only as strong as the person's understanding of the systems it describes."
+
 <div align="center">
 
-*"Compliance documentation is only as strong as the person's understanding of the systems it describes."*
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071B33,100:00B8C4&height=120&section=footer" alt="Decorative navy and teal footer" />
 
 </div>
